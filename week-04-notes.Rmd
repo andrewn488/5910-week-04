@@ -192,9 +192,35 @@ Benefits of receiving feedback well:
 + sometimes a partial apology is better than nothing
 + in crisis situations, an apology is better than nothing at all
 
-
++ include in fishbowl discussion - Dan Harmon's 7min apology for sexual abuse. This one resonated with me. 7 mins is short for a foot massage, but eternity for an apology. 
 
 # Communication
+
++ Communication is the nervous system of a company
++ communication <- process of sharing information with individuals
++ "we're not seeing eye to eye" vs. "pull your head outta your ass" 
++ 3 basic elements to communication
+
+    1. source/encoder - determines information to share, encodes that message and then transmits it to a destination
+    2. signal - neutral media
+    3. Decoder/Destination - decodes the information
+
++ active listening <- "what I hear you saying is..."
++ message impact: 
+
+    + words/message = 7%
+    + vocal tones = 38%
+    + facial expressions = 55%
+    
++ non-verbal weighs more than verbal in messaging
++ communicating with stakeholders:
+
+    + be upfront, honest, and transparent
+    + know your audience and choose an appropriate communication style
+    + always tell the truth - earn trust and build rapport
+    + reach for a heart before you reach for a hand
+    + tell stories
+
 
 # Fishbowl Discussion #3: 
 

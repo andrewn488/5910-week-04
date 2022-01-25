@@ -1,0 +1,185 @@
+---
+title: "Week-04-Notes"
+author: "Andrew Nalundasan"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview video
+
+Non provided. Unimpressive
+
+# Leadership that gets results (Daniel Goleman)
+
++ Leadership and Communication Styles and Emotional Intelligence
+
++ Mistakes
+
+    + Assume leadership is a function of personality rather than being intentional
+    
++ Most success comes from people who has flexibility to shift management style gears
+
+    + This situation dictates what style/tool a leader should use
+    + feedback is invaluable
+
++ Emotional Intelligence <- the capacity to be aware of, control, and express one's emotions AND to handle interpersonal relationships judiciously and empathetically
+
+Most effective emotional Intelligence competencies:
+
+1. Self-Awareness
+
+2. Self-Regulation
+
+3. Motivation
+
+4. Empathy
+
+5. Social Skill
+
+Leadership styles: 
+
+1. Commanding (coercive) <- do what I tell you
+
+    + must be used in small doses
+    + inhibits the organizations flexibility and dampens employees' motivation
+    + demand immediate compliance
+    
+2. Visionary/Authoritative <- come with me
+
+    + vibrant enthusiasm and clear vision
+    + visionary - motivate people by making clear to them how their work fits into a larger vision of the organization
+    + maximizes commitment to organization's goals and strategy
+    + feedback - single criterion is whether or not the performance furthers company vision
+    + flexibility - state the end but let the experts figure out how to get there
+    + this leadership causes people to understand that what they do matters and why
+    + states the overall goal but gives people the freedom to choose their own means of achieving it
+    + mobilize people toward a vision
+    
+3. Affiliative <- people come first. 
+
+    + useful for building team harmony or increasing morale
+    + values people and their emotions more than tasks and goals
+    + communication - people who like one another will talk a lot
+    + may tend to your own emotions openly with the team
+    + friends trust one another, leading to habitual innovation and risk taking
+    + offers ample positive feedback
+    + must be paired with other styles
+    + potential to let poor performance go uncorrected due to focus on praise
+        + perception that mediocrity is tolerated
+    
+    
+4. Democratic <- what do you think?
+
+    + the price is endless meetings and confused employees who feel leaderless
+    + extremely slow
+    + build concensus through participation
+    
+5. Pacesetting <- do as I do now. 
+
+    + meant for TIGER TEAMS!
+    + burnout rate is high
+    + fit the round peg into the square hole
+    + expect excellence and self-direction
+    
+6. Coaching <- try this.
+
+    + slow
+    + doesn't help you get tasks done, but helps you grow
+    + develop people for the future
+
++ Leaders that have mastered 4+ of these styles are most effective leaders
++ Commanding and Coaching should be done in small doses when the situation calls for it
++ Leaders should use a mix of different styles
++ Must match styles to situations
++ Leaders singular job is to get results
+
++ Key factors of influence
+
+    1. Flexibility - how free employees feel to innovate unencumbered by red tape
+    2. Responsibility
+    3. Standards - sense of accuracy about performance feedback
+    4. rewards
+    5. clarity of mission and values
+    6. commitment to a common purpose
+
++ leaders who used styles that positively affected the climate had decidedly better financial results than those who did not
++ climate counts for ~ 33% of financial results
+
+# Thanks for the feedback
+
++ the way one *receives* feedback is the most important variable to determine value of performance 
++ the receiver decides what to hear and what to act on
+
+Benefits of receiving feedback well:
+
+1. Take charge of your life-long learning
+
+    + take charge of learning and accelerate personal growth
+    
+2. Improve your relationships
+
+    + confidence
+    + growth matters to us
+
+3. Reduce stress and anxiety
+
++ Triggers have their own ways of disqualifying or distorting feedback
+
+    + once you recognize how the triggers have tripped you up, you can regain foorting and learn from it
+    
+1. Truth triggers
+
+    + you can find something wrong with any feedback you get
+    + when focusing on what's *wrong*, we lose sight of what might be *right* about it
+    + Regain footing
+        + dig under the label - QBQ. Understand the feedback
+        + understand where feedback comes from and where it's leading
+        + what do people want you do to differently?
+
+2. Relationship triggers
+
+    + rejecting feedback based on the *who* instead of the *what*
+    + give separate topics their own distinct conversations
+
+3. Identity triggers
+    
+    + imposter syndrome!
+    + understand your own tendencies - what are your own predictable patterns about how you hear and distort the feedback you get?
+    + the better you know your own behaviors, the easier it is to dismantle distortions
+
++ set boundaries
+
+
+# When should a person apologize?
+
++ leaders are responsible for their own behavior and that of their followers
++ the rationalization of an apology - what costs more? apologizing or withholding an apology?
++ 4 reasons for leaders to apologize:
+
+    1. Individual purpose
+        + to encourage followers to forgive and forget
+    2. Institutional purpose
+        + to restore the group's internal cohesion and external reputation
+    3. Intergroup purpose
+        + to repair relations with injured parties
+    4. Moral purpose
+        + to ask forgiveness and seek redemption
+
+# Communication
+
+# Fishbowl Discussion #3: 
+
++ Think about a recent discussion you had that involved feedback, (either personal or business).  Were you able to joyfully accept the feedback or were you "triggered"?  Did any of the three triggers impacted the discussion, (truth, relationship or identify)?  What could you do differently next time?
+
++ With the recent spurt in corporate wrongdoings and the resultant "apology tours", (think Facebook, Uber, Wells Fargo, Boeing), did you re-think doing business with these organizations?  Do corporate apologies mean anything to you or do you think it is just a "check the box" exercise?  Is apologizing important to your stakeholders?
+
++ Think about your current leadership and in relation to the Goleman article on Emotional Intelligence and Leadership Styles, see if you can identify the dominant style they use and do you feel they are competent at moving in-between roles as situations dictate.  Is that something you can see in yourself?
